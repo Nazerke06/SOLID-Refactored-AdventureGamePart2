@@ -33,3 +33,11 @@ How to run:
 1. Compile and run `MainGame.java`.
 2. The player will automatically engage in combat with a randomly generated enemy.
 3. The battle continues until either the player or the enemy is defeated.
+
+How it looked:
+![image](https://github.com/user-attachments/assets/6675555b-bd57-4c3e-b9c9-8a3bdf0cc29d)
+
+How it looks now:
+![image](https://github.com/user-attachments/assets/127f6055-82ec-40a8-abe7-c7d219c019e2)
+
+
